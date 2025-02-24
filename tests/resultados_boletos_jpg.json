@@ -1,0 +1,68 @@
+[
+   {
+      "arquivo":"187.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"00.000.000/0000-00",
+         "codigo_barras":"12345678901234567890123456789012345678901234",
+         "valor_boleto":"R$ 2.000,00"
+      }
+   },
+   {
+      "arquivo":"188.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"83.796.284/0001-00",
+         "codigo_barras":"23795758800000074702693040000002079400007520",
+         "valor_boleto":"R$ 74,70",
+         "data_vencimento":"17/07/2018"
+      }
+   },
+   {
+      "arquivo":"190.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"01.397.555/0001-81",
+         "codigo_barras":"33999.96720 94000.000003 07984.701016",
+         "valor_boleto":"R$ 33.709,55",
+         "data_vencimento":"17/06/2019"
+      }
+   },
+   {
+      "arquivo":"191.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"xx.xxx.xxx/xxxx-xx",
+         "codigo_barras":"12345678901234567890123456789012345678901234",
+         "valor_boleto":"R$ 150,00",
+         "data_vencimento":"10/03/2024"
+      }
+   },
+   {
+      "arquivo":"192.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"50,034,658/2005",
+         "codigo_barras":"308:SIGOATOST",
+         "valor_boleto":"R$ 1.000,00"
+      }
+   },
+   {
+      "arquivo":"193.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"34170001000128",
+         "codigo_barras":"34191.0900803680.38373892020.20000927907000196200",
+         "valor_boleto":"R$ 1.962,00"
+      }
+   },
+   {
+      "arquivo":"194.jpg",
+      "resultado":{
+         "classificacao":"boleto",
+         "cnpj":"xx.xxx.xxx/xxxx-xx",
+         "codigo_barras":"12345678901234567890123456789012345678901234",
+         "valor_boleto":"R$ 2.465,93"
+      }
+   }
+]

@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+google-cloud-storage
+google-cloud-pubsub
+pymupdf
+pillow
+python-multipart
+pytesseract
+pillow
+opencv-python-headless
+numpy
+pdf2image
+poppler-utils

@@ -1,0 +1,120 @@
+[
+    {
+       "arquivo":"000e94b6-d23d-3e26-ccae-0028924ef7f6.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"05629486000145",
+          "cnpj_tomador":"13783221000478",
+          "valor_total":"R$ 1.563,00",
+          "data_emissao":"08/01/2020",
+          "numero_nf":"1427",
+          "codigo_servico":"1010"
+       }
+    },
+    {
+       "arquivo":"00dbddf5-2911-0d31-5524-d4b51facff29.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"51.549301/0001-00",
+          "cnpj_tomador":"13.783221/0004-78",
+          "valor_total":"R$ 1.304,37",
+          "data_emissao":"2021-03-19T11:12:52",
+          "numero_nf":"288430",
+          "codigo_servico":"2097"
+       }
+    },
+    {
+       "arquivo":"00e344e2-7064-7564-aaba-eaba075ee320.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"47866934000174",
+          "cnpj_tomador":"13783221000478",
+          "valor_total":"R$ 262.88",
+          "data_emissao":"2020-09-14T04:42:35",
+          "numero_nf":"22602781",
+          "codigo_servico":"3205"
+       }
+    },
+    {
+       "arquivo":"0a5d1768-82bf-d93d-5b90-7148a5a9f8e5.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"47866934000174",
+          "cnpj_tomador":"13783221000478",
+          "valor_total":"R$ 10.37",
+          "data_emissao":"2020-05-04T01:39:11"
+       }
+    },
+    {
+       "arquivo":"0ae42c59-377b-8e97-ff2a-44c8bed8bbd9.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"17.455.913/0011-77",
+          "cnpj_tomador":"13.783.221/0004-78",
+          "valor_total":"R$ 1.509,60",
+          "data_emissao":"2020-10-21T13:05:31",
+          "numero_nf":"342",
+          "codigo_servico":"7960"
+       }
+    },
+    {
+       "arquivo":"0afc9948-2b96-ecf1-8790-ceb6808eb36c.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"15118715000110",
+          "cnpj_tomador":"13783221000478",
+          "valor_total":"R$ 21.70",
+          "data_emissao":"2021-01-11T20:19:46",
+          "numero_nf":"2068",
+          "codigo_servico":"6394"
+       }
+    },
+    {
+       "arquivo":"0b10b71c-2d35-e8c9-7cb8-5b751bbd918f.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"07.128.650/0001-30",
+          "cnpj_tomador":"13.783.221/0001-25",
+          "valor_total":"R$ 1,05",
+          "data_emissao":"11/02/2021",
+          "numero_nf":"242925",
+          "codigo_servico":"110101211"
+       }
+    },
+    {
+       "arquivo":"0b5f9d09-3625-7f70-5a78-eb738fd4ef2c.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"06354649000197",
+          "cnpj_tomador":"Não encontrado",
+          "valor_total":"R$ 25.56",
+          "data_emissao":"01/09/2020",
+          "numero_nf":"Não encontrado",
+          "codigo_servico":"0.02"
+       }
+    },
+    {
+       "arquivo":"0b5fc498-1e02-5064-4c0d-9f3f012bef7d.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"13485926000166",
+          "cnpj_tomador":"13783221000478",
+          "valor_total":"R$ 287.10",
+          "data_emissao":"09/04/2020",
+          "numero_nf":"28510",
+          "codigo_servico":"6298"
+       }
+    },
+    {
+       "arquivo":"0b790d02-9cf7-3c5f-5493-ffb98e2a815a.json",
+       "resultado":{
+          "classificacao":"nota fiscal",
+          "cnpj_emitente":"07128650001308",
+          "cnpj_tomador":"13783221000125",
+          "valor_total":"R$ 0.55",
+          "data_emissao":"2021-06-02T13:58:56",
+          "numero_nf":"356324",
+          "codigo_servico":"110101211"
+       }
+    }
+ ]

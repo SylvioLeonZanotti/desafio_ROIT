@@ -1,0 +1,69 @@
+[
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072312406-ADRIELLY CAROLINE RIBEIRO VIEIRA - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072315247-ALICE TEIXEIRA MENEZES DE OLIVEIRA - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072320154-CARMEM EMILIA DOS SANTOS CZEKAY - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072339395-HIGIPAR - MATERIAL DE LIMPEZA 2 - COMP - PAGAMENTO DUPLICADO_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234",
+          "valor_boleto":"R$ 150,00"
+       }
+    },
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072348242-IZABELA FERREIRA TULIO - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072371022-WEGA COMERCIO DE MOVEIS - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"27.06#CLAS#1562072309730-27.06.zip1562072327655-CARMEM CZEKAY - MULTA FGTS - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"xx.xxx.xxx/xxxx-xx",
+          "codigo_barras":"12345678901234567890123456789012345678901234"
+       }
+    },
+    {
+       "arquivo":"27.06#CLAS#1562072309730-27.06.zip1562072335395-EDUARDO GONCALVES - MULTA FGTS - COMP_0_0.pb.gz",
+       "resultado":{
+          "classificacao":"boleto",
+          "cnpj":"62961812931832",
+          "codigo_barras":"496e7465726e65742042616e6b696e67",
+          "valor_boleto":"None",
+          "data_vencimento":"None"
+       }
+    }
+ ]

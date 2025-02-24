@@ -1,0 +1,101 @@
+[
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072312406-ADRIELLY CAROLINE RIBEIRO VIEIRA - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"097.535.229-67",
+         "agencia":"1467",
+         "conta":"000000488348",
+         "valor_transacao":"R$ 986,10",
+         "data_operacao":"26/06/2019"
+      }
+   },
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072315247-ALICE TEIXEIRA MENEZES DE OLIVEIRA - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"377.684.868-54",
+         "agencia":"3731",
+         "conta":"000010257807",
+         "valor_transacao":"R$ 5.841,91",
+         "data_operacao":"26/06/2019"
+      }
+   },
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072320154-CARMEM EMILIA DOS SANTOS CZEKAY - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"306.927.849-34",
+         "agencia":"0808",
+         "conta":"000710142159",
+         "valor_transacao":"R$ 983,49",
+         "data_operacao":"26/06/2019"
+      }
+   },
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072339395-HIGIPAR - MATERIAL DE LIMPEZA 2 - COMP - PAGAMENTO DUPLICADO_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"01.489.096/0001-66",
+         "agencia":"None",
+         "conta":"None",
+         "valor_transacao":"R$ 1.399,89",
+         "data_operacao":"26/06/2019"
+      }
+   },
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072348242-IZABELA FERREIRA TULIO - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"121.710.109-83",
+         "agencia":"0813",
+         "conta":"000710159614",
+         "valor_transacao":"R$ 904,59",
+         "data_operacao":"26/06/2019"
+      }
+   },
+   {
+      "arquivo":"26.06#CLAS#1562072299480-26.06.zip1562072371022-WEGA COMERCIO DE MOVEIS - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"xx.xxx.xxx-xx",
+         "agencia":"3834",
+         "conta":"48005-9",
+         "valor_transacao":"R$ 524,00",
+         "data_operacao":"None"
+      }
+   },
+   {
+      "arquivo":"27.06#CLAS#1562072309730-27.06.zip1562072327655-CARMEM CZEKAY - MULTA FGTS - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"819E1EE338854E7ED1F068A",
+         "agencia":"None",
+         "conta":"None",
+         "valor_transacao":"R$ 71,15",
+         "data_operacao":"27/06/2019"
+      }
+   },
+   {
+      "arquivo":"27.06#CLAS#1562072309730-27.06.zip1562072335395-EDUARDO GONCALVES - MULTA FGTS - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"819E1EE617E0B453CA7A78C",
+         "agencia":"None",
+         "conta":"None",
+         "valor_transacao":"76,32",
+         "data_operacao":"27/06/2019"
+      }
+   },
+   {
+      "arquivo":"27.06#CLAS#1562072309730-27.06.zip1562072347783-LUCIMARA DE PAULA CAMARGO - COMP_0.json",
+      "resultado":{
+         "classificacao":"comprovante",
+         "cnpj_cpf":"029.241.059-00",
+         "agencia":"3945",
+         "conta":"000010973830",
+         "valor_transacao":"R$ 21,77",
+         "data_operacao":"27/06/2019"
+      }
+   }
+]
