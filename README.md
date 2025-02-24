@@ -104,10 +104,6 @@ GET /subscribe
 - Valor da transação
 - Data da operação
 
-### ✅ **Arquivos `.pb.gz`**
-- Descompacta e tenta extrair JSON ou texto binário legível
-- Trunca para 3000 caracteres caso o conteúdo seja muito grande
-
 ---
 
 ## 📁 Armazenamento de Resultados
