@@ -86,8 +86,6 @@ GET /subscribe
 ### ✅ **Boleto**
 - CNPJ do emissor
 - Código de barras
-- Valor do boleto
-- Data de vencimento
 
 ### ✅ **NFSe (Nota Fiscal de Serviço Eletrônica)**
 - CNPJ do emitente
